@@ -1,2 +1,0 @@
-[console_scripts]
-robothub-demo = examples.simple_demo:main

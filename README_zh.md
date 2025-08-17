@@ -6,7 +6,7 @@ AlphaDog 机器狗 Python SDK，提供简单直观的编程接口，支持机器
 
 ## 系统要求
 
-**⚠️ 重要提醒：本SDK仅支持Python 3.9版本**
+### ⚠️ 重要提醒：本SDK仅支持Python 3.9版本
 
 - **Python版本**: Python 3.9（必需 - 不支持其他版本）
 - **操作系统**: Windows, macOS, Linux

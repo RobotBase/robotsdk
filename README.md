@@ -6,7 +6,7 @@ A comprehensive Python SDK for AlphaDog robotic dog control, providing intuitive
 
 ## System Requirements
 
-**⚠️ Important: This SDK requires Python 3.9 specifically**
+### ⚠️ Important: This SDK requires Python 3.9 specifically
 
 - **Python Version**: Python 3.9 (Required - other versions are not supported)
 - **Operating System**: Windows, macOS, Linux
